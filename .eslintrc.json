@@ -27,12 +27,7 @@
     "no-new-object": "error",
     "no-new-wrappers": "error",
     "no-nested-ternary": "error",
-    "no-console": [
-      "error",
-      {
-        "allow": ["error"]
-      }
-    ],
+    "no-console": "off",
     "no-template-curly-in-string": "error",
     "no-self-compare": "error",
     "func-names": ["error", "as-needed"],
